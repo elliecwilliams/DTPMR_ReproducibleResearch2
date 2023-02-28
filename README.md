@@ -1,4 +1,0 @@
-# DTPMR_ReproducibleResearch
-
-
-Hi
